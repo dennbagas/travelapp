@@ -1,6 +1,6 @@
-# flightui
+# Travel App
 
-A new Flutter project.
+Travel app made from Flutter.
 
 ## Getting Started
 
